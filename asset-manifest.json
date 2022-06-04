@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hatchways/static/css/main.2118bf19.css",
+    "main.js": "/hatchways/static/js/main.d9830440.js",
+    "static/js/787.03643f34.chunk.js": "/hatchways/static/js/787.03643f34.chunk.js",
+    "index.html": "/hatchways/index.html",
+    "main.2118bf19.css.map": "/hatchways/static/css/main.2118bf19.css.map",
+    "main.d9830440.js.map": "/hatchways/static/js/main.d9830440.js.map",
+    "787.03643f34.chunk.js.map": "/hatchways/static/js/787.03643f34.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2118bf19.css",
+    "static/js/main.d9830440.js"
+  ]
+}
