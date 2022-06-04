@@ -1,23 +1,12 @@
-import logo from './logo.svg';
-import './App.css';
+import Students from "./components/Students";
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="bg-gray-200 flex justify-center items-center overflow-y-auto h-screen">
+      <div className="bg-white shadow scroll-smooth w-full md:w-[52rem] lg:w-[70rem] h-[38rem] lg:h-[38rem] rounded-lg overflow-y-scroll">
+        <Students />
+      </div>
     </div>
   );
 }
